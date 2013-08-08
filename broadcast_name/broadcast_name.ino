@@ -22,6 +22,7 @@ void loop()
   delay(3000);
   Serial1.println("<08>");
   Serial1.println("<09>");
+  Serial1.println("<09>");
 }
 
 
